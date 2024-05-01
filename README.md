@@ -15,4 +15,4 @@ This project implements an SMS Spam Detector using a linear Support Vector Machi
 - **Model Training:** A linear SVM classifier is trained on the preprocessed and vectorized data.
 - **Prediction:** The trained model is used to predict whether new messages are spam or ham.
 
-- ** Used the pipeline
+  - Used the pipeline
