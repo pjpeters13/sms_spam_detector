@@ -14,4 +14,4 @@ This project implements an SMS Spam Detector using a linear Support Vector Machi
 - **Feature Extraction:** TF-IDF vectorization is applied to transform the text data into numerical features.
 - **Model Training:** A linear SVM classifier is trained on the preprocessed and vectorized data.
 - **Prediction:** The trained model is used to predict whether new messages are spam or ham.
-- ** I created a pipeline which consists of TF-IDF and Linear SVC./**
+- **I created a pipeline which consists of TF-IDF and Linear SVC.**
